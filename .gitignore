@@ -1,0 +1,8 @@
+# Ignore the node_modules folders
+*.sw*
+*.
+node_modules/
+
+
+
+
